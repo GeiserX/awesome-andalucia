@@ -19,3 +19,7 @@ Repos que fueron retirados de la lista porque fueron archivados, deprecados o ya
 - [Skyview](https://github.com/IAA-CSIC/iaa-skyview) - Herramienta genérica de visualización astronómica mediante SkyView del IAA-CSIC, no específica de Andalucía.
 - [SOmachine 2020](https://github.com/espsrc/somachine2020) - Herramienta genérica de formación en machine learning para astronomía del IAA-CSIC, no específica de Andalucía.
 - [SOmachine 2021](https://github.com/espsrc/somachine2021) - Herramienta genérica de formación en machine learning para astronomía del IAA-CSIC, no específica de Andalucía.
+
+## Repos inexistentes o renombrados
+
+- `Andalucia-Developers/andalucia-developers` - Repositorio de la comunidad Andalucía Developers. Repo eliminado.
