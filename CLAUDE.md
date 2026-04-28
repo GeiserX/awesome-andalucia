@@ -1,4 +1,4 @@
-# AGENTS.md — awesome-andalucia
+# CLAUDE.md — awesome-andalucia
 
 ## Propósito
 
@@ -124,4 +124,4 @@ No se aceptan proyectos relacionados con: pornografía, contenido NSFW, lotería
 
 ---
 
-*Built with [LynxPrompt](https://lynxprompt.com) AGENTS.md framework.*
+*Built with [LynxPrompt](https://lynxprompt.com) CLAUDE.md framework.*
