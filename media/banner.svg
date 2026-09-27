@@ -1,29 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
-  <defs>
-    <clipPath id="r"><rect width="800" height="200" rx="16"/></clipPath>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0a0f"/><stop offset="100%" stop-color="#14141f"/>
-    </linearGradient>
-    <filter id="b1"><feGaussianBlur stdDeviation="40"/></filter>
-  </defs>
-  <g clip-path="url(#r)">
-    <rect width="800" height="200" fill="url(#bg)"/>
-    <ellipse cx="150" cy="180" rx="200" ry="120" fill="#006633" opacity="0.15" filter="url(#b1)"/>
-    <ellipse cx="650" cy="20" rx="200" ry="120" fill="#FFFFFF" opacity="0.1" filter="url(#b1)"/>
-    <rect width="800" height="2" fill="#006633" opacity="0.6"/>
-    <text x="400" y="75" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" fill="#fff" font-weight="700" letter-spacing="1">awesome-andalucia</text>
-    <rect x="280" y="86" width="240" height="2" rx="1" fill="#006633" opacity="0.5"/>
-    <text x="400" y="116" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA ANDALUCIA</text>
-    <!-- 8 elements representing the 8 provinces -->
-    <g fill="#006633" opacity="0.5" transform="translate(400,160)">
-      <circle cx="-63" cy="0" r="4"/>
-      <circle cx="-45" cy="0" r="4"/>
-      <circle cx="-27" cy="0" r="4"/>
-      <circle cx="-9" cy="0" r="4"/>
-      <circle cx="9" cy="0" r="4"/>
-      <circle cx="27" cy="0" r="4"/>
-      <circle cx="45" cy="0" r="4"/>
-      <circle cx="63" cy="0" r="4"/>
-    </g>
-  </g>
+<defs>
+<clipPath id="c-clip"><rect width="800" height="200" rx="16"/></clipPath>
+<pattern id="c-tile" patternUnits="userSpaceOnUse" x="16" y="28" width="96" height="96"><rect width="96" height="96" fill="#12121a"/><path d="M24 0L16.97 7.03L16.97 16.97L7.03 16.97L0 24L-7.03 16.97L-16.97 16.97L-16.97 7.03L-24 0L-16.97 -7.03L-16.97 -16.97L-7.03 -16.97L-0 -24L7.03 -16.97L16.97 -16.97L16.97 -7.03ZM24 96L16.97 103.03L16.97 112.97L7.03 112.97L0 120L-7.03 112.97L-16.97 112.97L-16.97 103.03L-24 96L-16.97 88.97L-16.97 79.03L-7.03 79.03L-0 72L7.03 79.03L16.97 79.03L16.97 88.97ZM72 48L64.97 55.03L64.97 64.97L55.03 64.97L48 72L40.97 64.97L31.03 64.97L31.03 55.03L24 48L31.03 40.97L31.03 31.03L40.97 31.03L48 24L55.03 31.03L64.97 31.03L64.97 40.97ZM120 0L112.97 7.03L112.97 16.97L103.03 16.97L96 24L88.97 16.97L79.03 16.97L79.03 7.03L72 0L79.03 -7.03L79.03 -16.97L88.97 -16.97L96 -24L103.03 -16.97L112.97 -16.97L112.97 -7.03ZM120 96L112.97 103.03L112.97 112.97L103.03 112.97L96 120L88.97 112.97L79.03 112.97L79.03 103.03L72 96L79.03 88.97L79.03 79.03L88.97 79.03L96 72L103.03 79.03L112.97 79.03L112.97 88.97Z" fill="#27508f" stroke="#ece2c8" stroke-width="1.8"/><path d="M24 48L16.97 55.03L16.97 64.97L7.03 64.97L0 72L-7.03 64.97L-16.97 64.97L-16.97 55.03L-24 48L-16.97 40.97L-16.97 31.03L-7.03 31.03L-0 24L7.03 31.03L16.97 31.03L16.97 40.97ZM72 0L64.97 7.03L64.97 16.97L55.03 16.97L48 24L40.97 16.97L31.03 16.97L31.03 7.03L24 0L31.03 -7.03L31.03 -16.97L40.97 -16.97L48 -24L55.03 -16.97L64.97 -16.97L64.97 -7.03ZM72 96L64.97 103.03L64.97 112.97L55.03 112.97L48 120L40.97 112.97L31.03 112.97L31.03 103.03L24 96L31.03 88.97L31.03 79.03L40.97 79.03L48 72L55.03 79.03L64.97 79.03L64.97 88.97ZM120 48L112.97 55.03L112.97 64.97L103.03 64.97L96 72L88.97 64.97L79.03 64.97L79.03 55.03L72 48L79.03 40.97L79.03 31.03L88.97 31.03L96 24L103.03 31.03L112.97 31.03L112.97 40.97Z" fill="#2f7552" stroke="#ece2c8" stroke-width="1.8"/><path d="M9.31 3.86L3.86 9.31L-3.86 9.31L-9.31 3.86L-9.31 -3.86L-3.86 -9.31L3.86 -9.31L9.31 -3.86ZM9.31 99.86L3.86 105.31L-3.86 105.31L-9.31 99.86L-9.31 92.14L-3.86 86.69L3.86 86.69L9.31 92.14ZM57.31 51.86L51.86 57.31L44.14 57.31L38.69 51.86L38.69 44.14L44.14 38.69L51.86 38.69L57.31 44.14ZM105.31 3.86L99.86 9.31L92.14 9.31L86.69 3.86L86.69 -3.86L92.14 -9.31L99.86 -9.31L105.31 -3.86ZM105.31 99.86L99.86 105.31L92.14 105.31L86.69 99.86L86.69 92.14L92.14 86.69L99.86 86.69L105.31 92.14Z" fill="#cf9a3a" stroke="#ece2c8" stroke-width="1.2"/><path d="M9.31 51.86L3.86 57.31L-3.86 57.31L-9.31 51.86L-9.31 44.14L-3.86 38.69L3.86 38.69L9.31 44.14ZM57.31 3.86L51.86 9.31L44.14 9.31L38.69 3.86L38.69 -3.86L44.14 -9.31L51.86 -9.31L57.31 -3.86ZM57.31 99.86L51.86 105.31L44.14 105.31L38.69 99.86L38.69 92.14L44.14 86.69L51.86 86.69L57.31 92.14ZM105.31 51.86L99.86 57.31L92.14 57.31L86.69 51.86L86.69 44.14L92.14 38.69L99.86 38.69L105.31 44.14Z" fill="#6b3350" stroke="#ece2c8" stroke-width="1.2"/></pattern>
+<radialGradient id="c-vig" cx="400" cy="100" r="420" gradientUnits="userSpaceOnUse" gradientTransform="translate(400 100) scale(1 0.5) translate(-400 -100)"><stop offset="0.4" stop-color="#0a0a0f" stop-opacity="0.7"/><stop offset="1" stop-color="#0a0a0f" stop-opacity="0.1"/></radialGradient>
+<linearGradient id="c-plaque" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c0c13"/><stop offset="1" stop-color="#15141f"/></linearGradient>
+</defs>
+<g clip-path="url(#c-clip)">
+<rect width="800" height="200" fill="url(#c-tile)"/>
+<rect width="800" height="200" fill="url(#c-vig)"/>
+<path d="M198 40H602L620 58V142L602 160H198L180 142V58Z" fill="url(#c-plaque)" stroke="#cf9a3a" stroke-opacity="0.85" stroke-width="1.6"/>
+<path d="M202 47H598L613 62V138L598 153H202L187 138V62Z" fill="none" stroke="#cf9a3a" stroke-opacity="0.4" stroke-width="1"/>
+<text x="400" y="100" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff" letter-spacing="1">awesome-andalucia</text>
+<text x="400" y="128" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#f1e6cc" fill-opacity="0.78" letter-spacing="2.4">SOFTWARE OPEN SOURCE PARA ANDALUCIA</text>
+</g>
 </svg>
