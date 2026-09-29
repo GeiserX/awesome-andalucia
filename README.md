@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="media/banner.svg" alt="Awesome Andalucia">
+  <img src="docs/images/banner.svg" alt="Awesome Andalucia">
   <br><br>
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
   <br><br>
@@ -20,7 +20,7 @@
 - [Transporte y Movilidad](#transporte-y-movilidad)
 <!--lint enable awesome-list-item-->
 
-**Leyenda:** Cada entrada muestra: ![Stars](https://img.shields.io/badge/%E2%AD%90-grey?style=flat-square) estrellas, ![Last Commit](https://img.shields.io/badge/commit-grey?style=flat-square) actividad, ![Language](https://img.shields.io/badge/lang-grey?style=flat-square) lenguaje, ![License](https://img.shields.io/badge/license-grey?style=flat-square) licencia, [![Junta](https://img.shields.io/badge/Junta-006633?style=flat-square)](https://www.juntadeandalucia.es/) etiqueta de institución/ubicación, ([Demo](https://github.com/GeiserX/awesome-andalucia)) demo en vivo. Todas las insignias son clicables y se actualizan automáticamente. Las etiquetas enlazan a las páginas oficiales de cada institución.
+> Las insignias muestran: ⭐ estrellas, último commit, lenguaje principal y licencia. Las etiquetas de color enlazan a la página oficial de cada institución o servicio. Los enlaces **Demo** apuntan a instancias públicas.
 
 ## Administración y Gobierno Autonómico
 
@@ -70,7 +70,6 @@
 
 - [Actualiza Firefox Guadalinex](https://github.com/homero10/actualiza-firefox-guadalinex) [![Stars](https://img.shields.io/github/stars/homero10/actualiza-firefox-guadalinex?style=flat-square&label=%E2%AD%90)](https://github.com/homero10/actualiza-firefox-guadalinex/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/homero10/actualiza-firefox-guadalinex?style=flat-square)](https://github.com/homero10/actualiza-firefox-guadalinex/commits/master) [![Language](https://img.shields.io/github/languages/top/homero10/actualiza-firefox-guadalinex?style=flat-square)](https://github.com/homero10/actualiza-firefox-guadalinex) [![License](https://img.shields.io/github/license/homero10/actualiza-firefox-guadalinex?style=flat-square)](https://github.com/homero10/actualiza-firefox-guadalinex/blob/master/LICENSE) [![Junta](https://img.shields.io/badge/Junta-006633?style=flat-square)](https://www.juntadeandalucia.es/) - Script para actualizar Firefox sin permisos de root en equipos Guadalinex Edu de centros educativos andaluces.
 - [Lobatón](https://github.com/sio2sio2/lobaton) [![Stars](https://img.shields.io/github/stars/sio2sio2/lobaton?style=flat-square&label=%E2%AD%90)](https://github.com/sio2sio2/lobaton/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/sio2sio2/lobaton?style=flat-square)](https://github.com/sio2sio2/lobaton/commits/master) [![Language](https://img.shields.io/github/languages/top/sio2sio2/lobaton?style=flat-square)](https://github.com/sio2sio2/lobaton) [![License](https://img.shields.io/github/license/sio2sio2/lobaton?style=flat-square)](https://github.com/sio2sio2/lobaton/blob/master/LICENSE) [![Junta](https://img.shields.io/badge/Junta-006633?style=flat-square)](https://www.juntadeandalucia.es/) - Mapa interactivo de adjudicaciones y oferta educativa de centros educativos andaluces con Leaflet.
-- [Séneca2GSuite](https://github.com/DavidLMS/Seneca2GSuite) [![Stars](https://img.shields.io/github/stars/DavidLMS/Seneca2GSuite?style=flat-square&label=%E2%AD%90)](https://github.com/DavidLMS/Seneca2GSuite/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/DavidLMS/Seneca2GSuite?style=flat-square)](https://github.com/DavidLMS/Seneca2GSuite/commits/master) [![Language](https://img.shields.io/github/languages/top/DavidLMS/Seneca2GSuite?style=flat-square)](https://github.com/DavidLMS/Seneca2GSuite) [![License](https://img.shields.io/github/license/DavidLMS/Seneca2GSuite?style=flat-square)](https://github.com/DavidLMS/Seneca2GSuite) [![Séneca](https://img.shields.io/badge/Séneca-006633?style=flat-square)](https://www.juntadeandalucia.es/educacion/seneca/) - Script Bash para crear cuentas educativas en G-Suite for Education usando datos de la plataforma Séneca de Andalucía.
 
 ## Medio Ambiente
 
@@ -122,7 +121,7 @@ For the badge (grande):
 
 ## Contribuir
 
-Las contribuciones bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
+Las contribuciones son bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
 
 ## Nota
 
