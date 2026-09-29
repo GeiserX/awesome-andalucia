@@ -23,3 +23,4 @@ Repos que fueron retirados de la lista porque fueron archivados, deprecados o ya
 ## Repos inexistentes o renombrados
 
 - `Andalucia-Developers/andalucia-developers` - Repositorio de la comunidad Andalucía Developers. Repo eliminado.
+- `DavidLMS/Seneca2GSuite` - Script Bash para crear cuentas educativas en G-Suite for Education usando datos de la plataforma Séneca de Andalucía. Repo eliminado o privado (GitHub devuelve 404).
