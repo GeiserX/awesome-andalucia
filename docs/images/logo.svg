@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="22 22 52 52" width="52" height="52" role="img" aria-label="Awesome Andalucía">
+<!-- One eight-point star of the banner's c-tile azulejo pattern (the star centred at 48,48 in the repeat, with its gold octagon), copied path for path with the banner's fills and cream grout stroke. Changed: the dark #12121a tile behind it is dropped (it would vanish on the header), so the background is transparent. -->
+<path d="M72 48L64.97 55.03L64.97 64.97L55.03 64.97L48 72L40.97 64.97L31.03 64.97L31.03 55.03L24 48L31.03 40.97L31.03 31.03L40.97 31.03L48 24L55.03 31.03L64.97 31.03L64.97 40.97Z" fill="#27508f" stroke="#ece2c8" stroke-width="1.8"/>
+<path d="M57.31 51.86L51.86 57.31L44.14 57.31L38.69 51.86L38.69 44.14L44.14 38.69L51.86 38.69L57.31 44.14Z" fill="#cf9a3a" stroke="#ece2c8" stroke-width="1.2"/>
+</svg>

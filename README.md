@@ -6,6 +6,7 @@
   <p>Una selección de software open source que da soporte específico a Andalucía, sus municipios, universidades e instituciones.</p>
 </div>
 
+<!-- --8<-- [start:lista] -->
 ## Contenido
 
 <!--lint disable awesome-list-item-->
@@ -121,7 +122,7 @@ For the badge (grande):
 
 ## Contribuir
 
-Las contribuciones son bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
+Las contribuciones son bienvenidas. Lee las [directrices de contribución](https://github.com/GeiserX/awesome-andalucia/blob/main/contributing.md) antes de enviar un pull request.
 
 ## Nota
 
@@ -130,3 +131,4 @@ Esta lista se centra en software open source que da **soporte específico a Anda
 ## Descargo de responsabilidad
 
 No se aceptan proyectos relacionados con pornografía, contenido NSFW, loterías o apuestas, religión, política partidista ni cualquier otro tema controvertido. Esta lista pretende ser un recurso técnico neutral y útil para la comunidad de desarrolladores.
+<!-- --8<-- [end:lista] -->
