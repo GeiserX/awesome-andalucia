@@ -10,3 +10,7 @@ https://www.granada.es/
 # anonimos, asi que fallaban todas las entradas en cada ejecucion y tapaban
 # cualquier enlace roto de verdad. La URL base del repo si se comprueba.
 https://github.com/.*/stargazers
+
+# El sitio de la lista. Devuelve 404 hasta que el primer despliegue de Pages
+# sale de main, así que el pull request que lo crea no podía pasar.
+https://geiserx.github.io/awesome-andalucia/
