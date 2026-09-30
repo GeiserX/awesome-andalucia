@@ -5,6 +5,8 @@ https://github.com/.*/blob/.*/LICENSE.*
 # External sites that block automated link checkers or are intermittently down
 https://andalugeeks.com/
 https://www.granada.es/
+https://www.huelva.es/
+https://www.sevilla.org/
 
 # Enlaces de la insignia de estrellas: /stargazers devuelve 404 a los clientes
 # anonimos, asi que fallaban todas las entradas en cada ejecucion y tapaban
