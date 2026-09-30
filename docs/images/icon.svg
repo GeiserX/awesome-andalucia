@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="256" height="256" role="img" aria-label="Awesome Andalucía">
+<!-- Favicon: the same eight-point star as logo.svg (banner c-tile, star at 48,48 with its gold octagon), scaled 4.8x and centred on a rounded plate in the banner's darkest sky tone. The banner has no glow gradient, so the plate is plain. -->
+<rect width="360" height="360" rx="72" fill="#0a0a0f"/>
+<g transform="translate(-50.4 -50.4) scale(4.8)">
+<path d="M72 48L64.97 55.03L64.97 64.97L55.03 64.97L48 72L40.97 64.97L31.03 64.97L31.03 55.03L24 48L31.03 40.97L31.03 31.03L40.97 31.03L48 24L55.03 31.03L64.97 31.03L64.97 40.97Z" fill="#27508f" stroke="#ece2c8" stroke-width="1.8"/>
+<path d="M57.31 51.86L51.86 57.31L44.14 57.31L38.69 51.86L38.69 44.14L44.14 38.69L51.86 38.69L57.31 44.14Z" fill="#cf9a3a" stroke="#ece2c8" stroke-width="1.2"/>
+</g>
+</svg>
