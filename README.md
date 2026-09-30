@@ -4,6 +4,7 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
   <br><br>
   <p>Una selección de software open source que da soporte específico a Andalucía, sus municipios, universidades e instituciones.</p>
+  <p>Búscalos en <a href="https://geiserx.github.io/awesome-andalucia/">geiserx.github.io/awesome-andalucia</a>.</p>
 </div>
 
 <!-- --8<-- [start:lista] -->
