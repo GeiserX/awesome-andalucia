@@ -27,13 +27,13 @@ hide:
 
     ---
 
-    De Administración y Gobierno Autonómico a Transporte y Movilidad, pasando por Junta, Andalugeeks, Sevilla, IECA. El índice lateral sigue la categoría que estás leyendo.
+    De Administración y Gobierno Autonómico a Transporte y Movilidad, pasando por Junta, Guadalinex, Sevilla, Mapea4. El índice lateral sigue la categoría que estás leyendo.
 
 -   :material-magnify: **[Buscar un proyecto](https://geiserx.github.io/awesome-andalucia/?q=Junta)**
 
     ---
 
-    Pulsa `/` y escribe lo que necesitas: Junta, Andalugeeks, Sevilla, IECA. La búsqueda cubre el nombre y la descripción de todas las entradas.
+    Pulsa `/` y escribe lo que necesitas: Junta, Guadalinex, Sevilla, Mapea4. La búsqueda cubre el nombre y la descripción de todas las entradas.
 
 -   :material-plus-box-outline: **[Proponer un proyecto](https://github.com/GeiserX/awesome-andalucia/issues/new?template=anadir-proyecto.md)**
 
