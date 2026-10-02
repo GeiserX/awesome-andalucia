@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "awesome_andalucia",
+  "project_id": "e5780d58-d2fb-42e9-a350-39653f315903"
+}
