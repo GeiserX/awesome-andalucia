@@ -134,4 +134,4 @@ Esta lista se centra en software open source que da **soporte específico a Anda
 No se aceptan proyectos relacionados con pornografía, contenido NSFW, loterías o apuestas, religión, política partidista ni cualquier otro tema controvertido. Esta lista pretende ser un recurso técnico neutral y útil para la comunidad de desarrolladores.
 <!-- --8<-- [end:lista] -->
 
-- [Control](https://this-host-does-not-exist-2026.example/) - Enlace de prueba que debe fallar.
+- [Control](https://github.com/GeiserX/this-repo-does-not-exist-7f3a9c) - Enlace de prueba que debe fallar.
