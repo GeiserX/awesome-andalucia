@@ -16,3 +16,7 @@ https://github.com/.*/stargazers
 # El sitio de la lista. Devuelve 404 hasta que el primer despliegue de Pages
 # sale de main, así que el pull request que lo crea no podía pasar.
 https://geiserx.github.io/awesome-andalucia/
+
+# Movidos aquí desde los --exclude del antiguo trabajo links de main.yml, para
+# que las dos comprobaciones de enlaces se salten los mismos hosts.
+img\.shields\.io
