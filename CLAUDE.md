@@ -138,7 +138,7 @@ No se aceptan proyectos relacionados con: pornografía, contenido NSFW, lotería
 
 ---
 
-*Built with [LynxPrompt](https://lynxprompt.com) CLAUDE.md framework.*
+*Built with [LynxPrompt](https://lynxprompt.geiser.cloud) CLAUDE.md framework.*
 
 <!-- BEGIN BEADS INTEGRATION v:1 profile:minimal hash:6cd5cc61 -->
 ## Beads Issue Tracker
